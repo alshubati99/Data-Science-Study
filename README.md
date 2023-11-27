@@ -25,7 +25,7 @@
     - Data Analysis
     - Models
   
-![Data Engineering]()
+![Data Engineering](https://github.com/alshubati99/Data-Science-Study/blob/main/data%20engineering%20.png)
     
 - Steps of data engineering:
     - Ask question what data needs to be recorded or collected?
